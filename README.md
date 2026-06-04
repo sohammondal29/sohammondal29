@@ -4,8 +4,7 @@
 
 ### 3rd Year Undergraduate | Electrical Engineering (Dual Degree) | IIT Kharagpur
 
-Passionate about **Data Structures and Algorithms**, **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, and **Problem Solving**.  
-I enjoy building impactful projects that combine software, data, and smart systems.
+Passionate about **Data Structures and Algorithms**, **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, and **Problem Solving**. I enjoy building impactful projects that combine software, data, and smart systems.
 
 <!-- Replace the links below with your actual profiles -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-mondal-a42502280/)
