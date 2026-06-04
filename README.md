@@ -4,7 +4,7 @@
 
 ### 3rd Year Undergraduate | Electrical Engineering (Dual Degree) | IIT Kharagpur
 
-Passionate about **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, and **Problem Solving**.  
+Passionate about **Data Structures and Algorithms**, **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, and **Problem Solving**.  
 I enjoy building impactful projects that combine software, data, and smart systems.
 
 <!-- Replace the links below with your actual profiles -->
