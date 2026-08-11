@@ -2,7 +2,7 @@
 
 # Hey there, I'm Soham Mondal 👋
 
-### 3rd Year Undergraduate | Electrical Engineering (Dual Degree) | IIT Kharagpur
+### 4th Year Undergraduate | Electrical Engineering (Dual Degree) | IIT Kharagpur
 
 Passionate about **Data Structures and Algorithms**, **Artificial Intelligence**, **Machine Learning**, **Full Stack Development**, and **Problem Solving**. I enjoy building impactful projects that combine software, data, and smart systems.
 
